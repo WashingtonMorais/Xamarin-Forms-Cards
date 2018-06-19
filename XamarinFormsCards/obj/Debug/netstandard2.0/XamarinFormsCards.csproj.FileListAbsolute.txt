@@ -1,0 +1,9 @@
+c:\Temp\XamarinFormsCards\XamarinFormsCards\XamarinFormsCards\bin\Debug\netstandard2.0\XamarinFormsCards.deps.json
+c:\Temp\XamarinFormsCards\XamarinFormsCards\XamarinFormsCards\bin\Debug\netstandard2.0\XamarinFormsCards.dll
+c:\Temp\XamarinFormsCards\XamarinFormsCards\XamarinFormsCards\bin\Debug\netstandard2.0\XamarinFormsCards.pdb
+c:\Temp\XamarinFormsCards\XamarinFormsCards\XamarinFormsCards\obj\Debug\netstandard2.0\XamarinFormsCards.csprojAssemblyReference.cache
+c:\Temp\XamarinFormsCards\XamarinFormsCards\XamarinFormsCards\obj\Debug\netstandard2.0\XamarinFormsCards.csproj.CoreCompileInputs.cache
+c:\Temp\XamarinFormsCards\XamarinFormsCards\XamarinFormsCards\obj\Debug\netstandard2.0\XamarinFormsCards.AssemblyInfoInputs.cache
+c:\Temp\XamarinFormsCards\XamarinFormsCards\XamarinFormsCards\obj\Debug\netstandard2.0\XamarinFormsCards.AssemblyInfo.cs
+c:\Temp\XamarinFormsCards\XamarinFormsCards\XamarinFormsCards\obj\Debug\netstandard2.0\XamarinFormsCards.dll
+c:\Temp\XamarinFormsCards\XamarinFormsCards\XamarinFormsCards\obj\Debug\netstandard2.0\XamarinFormsCards.pdb
